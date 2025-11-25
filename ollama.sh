@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ollama pull llama3.1:8b
+ollama pull smollm2:135m
