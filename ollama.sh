@@ -1,5 +1,5 @@
 #!/bin/bash
 ollama serve &
 sleep 3
-ollama pull smollm2:135m
+ollama pull llama3.1:8b
 wait
