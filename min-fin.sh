@@ -7,7 +7,7 @@ sleep 3
 
 # Models to process (base_model:new_model_name)
 MODELS=(
-  "llama3.1:7b llama3.1:7b-16k"
+  "llama3.1:7b llama3.1:8b-16k"
   "llama3.3:70b llama3.3:70b-16k"
   "deepseek-r1:32b deepseek-r1:32b-16k"
   "deepseek-r1:70b deepseek-r1:70b-16k"
