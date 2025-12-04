@@ -13,8 +13,6 @@ MODELS=(
   "deepseek-r1:70b deepseek-r1:70b-16k"
   "gemma3:12b gemma3:12b-16k"
   "gemma3:27b gemma3:27b-16k"
-  "qwen3:8b qwen3:8b-16k"
-  "qwen3:32b qwen3:32b-16k"
   "mistral:7b mistral:7b-16k"
   "mixtral:8x7b mixtral:8x7b-16k"
 )
